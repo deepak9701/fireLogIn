@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "928090559128",
+    "firebase_url": "https://myapps971-default-rtdb.firebaseio.com",
+    "project_id": "myapps971",
+    "storage_bucket": "myapps971.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928090559128:android:7084b1d6525951089c76ed",
+        "android_client_info": {
+          "package_name": "com.android.firelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928090559128-t3i5ml3mktb5l3acojsonm7p0gndbfva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyd9XscTR1qfCcvb4ujuyrJsirHBbHOhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928090559128-t3i5ml3mktb5l3acojsonm7p0gndbfva.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

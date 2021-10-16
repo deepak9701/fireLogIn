@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<resources>
+    <string name="app_name">FireLogIn</string>
+    <string name="registerUser">Register User</string>
+    <string name="login_user">Log In</string>
+    <string name="fullName">Full Name</string>
+    <string name="eMail">E-Mail</string>
+    <string name="mobileNumber">Mobile Number</string>
+    <string name="dateOfBirth">Date of Birth</string>
+    <string name="gender">Gender</string>
+    <string name="address">Address</string>
+    <string name="password">Password</string>
+    <string name="confPassword">Confirm Password</string>
+    <string name="logOut">Log Out</string>
+    <string name="fillDetails">Fill Details</string>
+    <string name="edit">Edit</string>
+    <string name="update">Update</string>
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Others</item>
+    </string-array>
+</resources>

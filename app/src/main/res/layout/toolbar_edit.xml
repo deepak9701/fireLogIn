@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="80sp"
+    android:background="@drawable/primary_bg_color"
+    android:gravity="bottom">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/primary_bg_color"
+        android:minHeight="?attr/actionBarSize">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/buttonClose"
+            android:background="@android:color/transparent"
+            android:drawableLeft="@drawable/ic_baseline_close_24"/>
+
+        <TextView
+            style="@style/TextAppearance.Widget.Event.Toolbar.Title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/edit"
+            android:textColor="@color/white" />
+
+    </androidx.appcompat.widget.Toolbar>
+
+</LinearLayout>
